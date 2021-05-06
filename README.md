@@ -6,7 +6,7 @@
 * A command line interface like Terminal or GitBash to run and interact with the console app.
 
 ### Installation
-1. Clone the repository: `$ git clone https://github.com/account/FindAndReplace.Solution`
+1. Clone the repository: `$ git clone https://github.com/yesthecarlos/FindAndReplace.Solution`
 2. Navigate to the `FindAndReplace.Solution/` directory on your computer
 3. Open with your preferred text editor to view the code base
 4. To run the console app:
